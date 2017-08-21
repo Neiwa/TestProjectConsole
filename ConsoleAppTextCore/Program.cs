@@ -8,6 +8,7 @@ namespace ConsoleAppTextCore
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello again");
+            Console.WriteLine("Hello a third time");
         }
     }
 }
